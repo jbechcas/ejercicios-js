@@ -52,31 +52,3 @@ Similar a la aplicación anterior, esta funcionalidad pide dos números enteros 
 ## Mes del Año
 
 Esta aplicación contiene un array constante con los nombres de los 12 meses del año. El usuario selecciona un número de mes a través de un campo select en el formulario, y se muestra el nombre del mes correspondiente en pantalla.
-
-## Instalación
-
-1. Clona este repositorio:
-    ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd tu_repositorio
-    ```
-3. Abre el archivo `index.html` en tu navegador para ver las aplicaciones en acción.
-
-## Uso
-
-Cada aplicación está contenida en su propio archivo HTML dentro del repositorio. Abre el archivo correspondiente en tu navegador para interactuar con el formulario y ver los resultados.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor, crea un fork del repositorio y envía un pull request con tus mejoras. Asegúrate de seguir las mejores prácticas de codificación y de probar tus cambios antes de enviarlos.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-¡Gracias por usar nuestras aplicaciones web! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en GitHub.
