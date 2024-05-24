@@ -48,7 +48,3 @@ Esta aplicación utiliza un formulario para pedir dos números enteros positivos
 ## MCD por el Método de Euclides
 
 Similar a la aplicación anterior, esta funcionalidad pide dos números enteros positivos mediante un formulario y calcula el Máximo Común Divisor (MCD) usando el método de Euclides.
-
-## Mes del Año
-
-Esta aplicación contiene un array constante con los nombres de los 12 meses del año. El usuario selecciona un número de mes a través de un campo select en el formulario, y se muestra el nombre del mes correspondiente en pantalla.
